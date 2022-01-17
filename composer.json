@@ -1,0 +1,10 @@
+{
+    "name": "anton/forum-project",
+    "authors": [
+        {
+            "name": "Anton Norman",
+            "email": "normananton03@gmail.com"
+        }
+    ],
+    "require": {}
+}
